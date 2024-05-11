@@ -18,6 +18,6 @@ MOD_RPG.mood.good_patterns = {
 MOD_RPG.mood.bad_patterns = {
   { pattern = "^Klniesz(.*).$", value = "small_reduction" },
   { pattern = "^Zalamujesz sie calkowicie.$", value = "large_reduction" },
-  { pattern = "^Placisz .* monet.*.$", value = "middle_reduction" },
+  { pattern = "^Placisz .* (miedziaki|miedziakow|monet|monety).*.$", value = "middle_reduction" },
   { pattern = "^Zamawiasz .* placac .*.$", value = -5 },
 }
