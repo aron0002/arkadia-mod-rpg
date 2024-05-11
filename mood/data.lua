@@ -1,6 +1,6 @@
 MOD_RPG.mood.levels = {
   ["0"] = "Jestes w beznadziejnym nastroju.",
-  ["1"] = "Jestes w kipskim nastroju.",
+  ["1"] = "Jestes w kiepskim nastroju.",
   ["2"] = "Jestes w nie najlepszym nastroju.",
   ["3"] = "Jestes w przecietnym nastroju.",
   ["4"] = "Jestes w dobrym nastroju.",

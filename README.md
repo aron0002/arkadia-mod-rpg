@@ -53,4 +53,4 @@ Pomyslow na wirtualne "mierzalne" stany/cechy postaci moze byc wiele. Przyklady:
  - ilosc zarobionych pieniedzy na jakis okres czasu
  - ilosc danych/przyjetych lekcji nauczania jezyka
  
-Wszystkie zmiany dotyczacych wirtualnych cech moga wplywac np. na natroj czy inny wymyslony stan postaci.
+Wszystkie zmiany dotyczacych wirtualnych cech moga wplywac np. na nastroj czy inny wymyslony atrybut postaci.
