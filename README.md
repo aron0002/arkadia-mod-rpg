@@ -31,11 +31,11 @@ Co z tego wyjdzie to sie zobaczy.
 
 Plugin na chwile obecna dodaje graczom stan "nastroj" oraz ceche "zamoznosc".
 
-### cecha 'zamoznosc'
+### Cecha 'zamoznosc'
 Zamoznosc to po prostu ilosc pieniedzy (w depozytach) jaka posiadamy w grze. Po zmianach ilosci monet w depozytach i uzyciu aliasa '/depozyt' aktualizuje sie poziom zamoznosci.
 Ta cecha i jej progres pojawi sie po uzyciu komendy 'cechy'
 
-### stan 'nastroj'
+### Stan 'nastroj'
 Nastroj odzwieciedla sapomoczuie postaci. Na chwile obecna wplyw na nia maja kilka emocji arkowach.
 Oprocz tego jest ona powiazana z 'zamoznoscia', czyli wydawanie pieniedzy bedzie ja zmniejszac, a zarabianie zwiekszac.
 Ten stan pojawi sie po uzyciu komendy 'stan'
