@@ -7,7 +7,8 @@ Technicznie rzecz biorac to plugin do mudletowych skryptow dla arkadia.rpg.pl.
 Celem pluginu jest dodanie nowych elementow do gry i dzieki temu wzbogacenie gry o nowe funkcje pozwalajace bardziej rozbudowac RPG w grze.
 MOD RPG ma byc zintegrowalny z arkadia, na tyle aby nie bylo widac roznicy ze jest to tylko dodatek.
 
-Arkadia MOD RPG to wstepny prototyp, wiec nie ma sie wiele co spodziewac. 
+Arkadia MOD RPG to wstepny prototyp, wiec nie ma sie wiele co spodziewac i trzeba liczyc sie z jakimis bledami.
+
 Chodzilo mi glownie aby pokazac kilka drobnych mozliwosci w jakim kierunku mozna rozwinac gre bez bycia wizem.
 Co z tego wyjdzie to sie zobaczy.
 
@@ -17,10 +18,10 @@ Co z tego wyjdzie to sie zobaczy.
 ### Instalacja
 
 ```
-/zainstaluj_plugin https://codeload.github.com/aron0002/arkadia-mod-rpg/zip/refs/heads/master
+/zainstaluj_plugin https://codeload.github.com/aron0002/arkadia-mod-rpg/zip/master
 ```
 
-### Odinstalowanie pluginu
+### Deinstalacja
 
 ```
 /odinstaluj_plugin arkadia-mod-rpg
