@@ -1,0 +1,18 @@
+return {
+  "start",
+  "engine/templates",
+  "engine/model",
+  "engine/handlers",
+  "engine/controller",
+  "engine/view",
+  "mood/model",
+  "mood/data",
+  "mood/controller",
+  "mood/view",
+  "affluence/model",
+  "affluence/data",
+  "affluence/controller",
+  "affluence/external_overwrite",
+  "affluence/view",  
+  "end",
+}
