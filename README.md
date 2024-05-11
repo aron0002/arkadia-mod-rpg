@@ -20,6 +20,7 @@ Co z tego wyjdzie to sie zobaczy.
 ```
 /zainstaluj_plugin https://codeload.github.com/aron0002/arkadia-mod-rpg/zip/master
 ```
+Nie obecnie automatycznej aktualizacji.
 
 ### Deinstalacja
 
@@ -33,13 +34,13 @@ Co z tego wyjdzie to sie zobaczy.
 Plugin na chwile obecna dodaje graczom stan "nastroj" oraz ceche "zamoznosc".
 
 ### Cecha 'zamoznosc'
-Zamoznosc to po prostu ilosc pieniedzy (w depozytach) jaka posiadamy w grze. Po zmianach ilosci monet w depozytach i uzyciu aliasa '/depozyt' aktualizuje sie poziom zamoznosci.
+Zamoznosc to po prostu stan pieniedzy (w depozytach) jaka posiadamy w grze. Po zmianach ilosci monet w depozytach i uzyciu aliasa '/depozyt' aktualizuje sie poziom zamoznosci.
 Ta cecha i jej progres pojawi sie po uzyciu komendy 'cechy'
 
 ### Stan 'nastroj'
-Nastroj odzwieciedla sapomoczuie postaci. Na chwile obecna wplyw na nia maja kilka emocji arkowach.
+Nastroj odzwieciedla sapomoczuie postaci. Na chwile obecna wplyw na nia maja kilka emocji arkowach uzytych przez gracza.
 Oprocz tego jest ona powiazana z 'zamoznoscia', czyli wydawanie pieniedzy bedzie ja zmniejszac, a zarabianie zwiekszac.
-Ten stan pojawi sie po uzyciu komendy 'stan'
+Ten stan pojawi sie po uzyciu komendy 'stan'.
 
 ## Mozliwosci rozwoju
 
@@ -53,4 +54,3 @@ Pomyslow na wirtualne "mierzalne" stany/cechy postaci moze byc wiele. Przyklady:
  - ilosc danych/przyjetych lekcji nauczania jezyka
  
 Wszystkie zmiany dotyczacych wirtualnych cech moga wplywac np. na natroj czy inny wymyslony stan postaci.
- 
