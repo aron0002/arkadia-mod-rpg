@@ -20,7 +20,7 @@ Co z tego wyjdzie to sie zobaczy.
 ```
 /zainstaluj_plugin https://codeload.github.com/aron0002/arkadia-mod-rpg/zip/master
 ```
-Nie obecnie automatycznej aktualizacji.
+Nie ma obecnie automatycznej aktualizacji.
 
 ### Deinstalacja
 
