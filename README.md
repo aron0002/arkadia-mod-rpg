@@ -9,6 +9,7 @@ MOD RPG ma byc zintegrowalny z arkadia, na tyle aby nie bylo widac roznicy ze je
 
 Arkadia MOD RPG to wstepny prototyp, wiec nie ma sie wiele co spodziewac. 
 Chodzilo mi glownie aby pokazac kilka drobnych mozliwosci w jakim kierunku mozna rozwinac gre bez bycia wizem.
+Co z tego wyjdzie to sie zobaczy.
 
 
 ## Instalacja i deinstalacja
@@ -16,7 +17,7 @@ Chodzilo mi glownie aby pokazac kilka drobnych mozliwosci w jakim kierunku mozna
 ### Instalacja
 
 ```
-todo
+/zainstaluj_plugin https://codeload.github.com/aron0002/arkadia-mod-rpg/zip/refs/heads/master
 ```
 
 ### Odinstalowanie pluginu
@@ -24,6 +25,7 @@ todo
 ```
 /odinstaluj_plugin arkadia-mod-rpg
 ```
+
 
 ## Co zawiera plugin?
 
