@@ -81,7 +81,6 @@ function MOD_RPG.affluence:import_deposits_data()
     end
     return nil
   end
-  scripts.character_name = "Valen"
   local retrieved = db:fetch(scripts.boxes.db.boxes, { db:eq(scripts.boxes.db.boxes.character, scripts.character_name) })
   local tmp = nil
   local money = {}
