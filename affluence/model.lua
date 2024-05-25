@@ -154,6 +154,7 @@ function MOD_RPG.affluence:generate_triggers()
   self:kill_triggers()
   --- miejsce wyswietlenia cechy
   table.insert(MOD_RPG_affluence_triggers, tempRegexTrigger("^Jestes .* odwage.$", function() MOD_RPG.affluence.display(matches[1]) end))  
+  table.insert(MOD_RPG_affluence_triggers, tempRegexTrigger("^Witaj, ([a-zA-Z]+)\. Podaj swe haslo:.*", function() raiseEvent("mod_rpg_affluence") end ))
 end
 
 function MOD_RPG.affluence:generate_aliases()

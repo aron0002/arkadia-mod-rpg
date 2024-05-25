@@ -3,7 +3,7 @@ function MOD_RPG.affluence:init()
   self:set_internal_value(0)                    --- wartosc to troche odpowiednik wartosci monet w depozytach przeliczone na miedziaki
   self:set_level(1)
   self:set_target_internal_value(1000*24000)    --- 1000 mithryli
-  self:import_deposits_data()
+  --self:import_deposits_data()
   self:generate_triggers()
   self:generate_aliases()
   
